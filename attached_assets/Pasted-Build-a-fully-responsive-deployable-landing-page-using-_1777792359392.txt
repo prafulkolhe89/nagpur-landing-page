@@ -1,0 +1,186 @@
+Build a fully responsive, deployable landing page using React + Vite.
+
+Project goal:
+Create a premium mobile-first landing page for a digital service that helps local Nagpur businesses get more customers through Website + Google Presence + WhatsApp leads.
+
+Important:
+Do NOT create a dark theme.
+Use bright warm premium colors: white, cream, yellow, orange gradients, soft green CTA.
+The page should feel premium, modern, clean, and conversion-focused.
+It should look like a scrollable business growth system, not a poster.
+
+Tech requirements:
+- React + Vite
+- Mobile-first responsive layout
+- Clean component structure
+- Sticky WhatsApp CTA on mobile
+- Smooth scrolling
+- Rounded cards
+- Soft shadows
+- Modern typography
+- Use emoji/icons where useful
+- No backend required
+- Ready to deploy on Replit
+
+Brand feel:
+Premium, warm, trustworthy, local, high-converting.
+
+Page sections:
+
+1. Hero Section
+Headline:
+Get More Customers for Your Business in Nagpur 🚀
+
+Subtext:
+People are searching for your service every day.
+But right now, they may be calling your competitors.
+
+CTA button:
+Chat on WhatsApp
+
+Small trust line:
+Website + Google Presence + WhatsApp Leads
+
+Add a mobile phone mockup card showing:
+“Pandit Service in Nagpur”
+“Call Now”
+“WhatsApp Booking”
+
+2. Pain Section
+Headline:
+Your business may be invisible online
+
+Copy:
+People search daily for:
+- Pandit in Nagpur
+- Tiffin service near me
+- Best local service near me
+
+But they don’t find you because:
+❌ No website
+❌ Not visible on Google
+❌ No easy WhatsApp contact
+
+Highlight:
+Every day you delay, customers go somewhere else.
+
+3. Solution Section
+Headline:
+We fix this in just 5 days ⚡
+
+Cards:
+✔ Website that builds trust
+✔ Google presence setup
+✔ WhatsApp lead system
+
+Subtext:
+No technical knowledge needed. Everything is done-for-you.
+
+4. Before / After Section
+Title:
+From invisible to getting inquiries
+
+Before:
+❌ No website
+❌ Low visibility
+❌ Few inquiries
+❌ Only word-of-mouth
+
+After:
+✅ Visible on Google
+✅ Professional website
+✅ More calls
+✅ WhatsApp leads
+
+5. Visual Proof Section
+Headline:
+This is how your business can look
+
+Create two mockup cards:
+- Pandit Service Website
+- Tiffin Service Website
+
+Caption:
+Professional. Trustworthy. Easy to contact.
+
+6. Pricing Section
+Headline:
+Choose your growth plan
+
+Pricing cards:
+
+Basic – ₹3,999/year
+Perfect to get started
+- 1-page website
+- Call + WhatsApp button
+- Mobile optimized
+
+Growth – ₹9,999/year
+Most Popular
+Best for regular leads
+- 3–5 pages website
+- Google Business optimization
+- WhatsApp lead capture
+- Contact form
+
+Premium – ₹19,999/year
+For serious growth
+- Full website
+- Advanced SEO
+- Google setup
+- Review system
+- Priority support
+
+Highlight Growth card with badge:
+MOST POPULAR
+
+7. Trust Section
+Headline:
+Helping Nagpur businesses grow online
+
+Icons/cards:
+Google
+WhatsApp
+Website
+
+Text:
+Built for local businesses that want more calls, more trust, and more visibility.
+
+8. Scarcity Section
+Alert style box:
+⚠️ Only 5 businesses onboarded per week to maintain quality.
+
+9. Final CTA Section
+Headline:
+Start Getting Customers Today
+
+Subtext:
+Don’t lose another customer to competitors.
+
+Big CTA:
+Send “Hi” on WhatsApp
+
+Footer:
+Made for local businesses in Nagpur.
+
+WhatsApp CTA link:
+Use this placeholder everywhere:
+https://wa.me/91YOURNUMBER?text=Hi%2C%20I%20want%20to%20grow%20my%20business%20online
+
+Design details:
+- Background: white to warm yellow/orange gradient
+- CTA buttons: WhatsApp green
+- Cards: white with soft shadow
+- Border radius: large rounded corners
+- Use bold headings
+- Keep text short and punchy
+- Use lots of spacing
+- Add subtle animations on scroll or hover
+- Make it beautiful on mobile first, then desktop
+
+Deliver:
+- Complete working React code
+- Clean CSS
+- Deployable Replit project
+- No placeholder lorem ipsum
+- All content should be production-ready

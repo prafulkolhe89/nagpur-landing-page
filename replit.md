@@ -16,6 +16,19 @@ pnpm workspace monorepo using TypeScript. Each package manages its own dependenc
 - **API codegen**: Orval (from OpenAPI spec)
 - **Build**: esbuild (CJS bundle)
 
+## Artifacts
+
+### `nagpur-landing` (React + Vite, preview path: `/`)
+Premium mobile-first landing page for a Nagpur local business digital growth service.
+- 9 sections: Hero, Pain, Solution, Before/After, Visual Proof, Pricing, Trust, Scarcity, Final CTA
+- Warm cream/yellow/orange color palette, WhatsApp green CTAs
+- Sticky mobile WhatsApp CTA bar
+- Framer Motion scroll animations
+- No backend required
+
+### `api-server` (Express 5, preview path: `/api`)
+Shared backend API server.
+
 ## Key Commands
 
 - `pnpm run typecheck` — full typecheck across all packages
