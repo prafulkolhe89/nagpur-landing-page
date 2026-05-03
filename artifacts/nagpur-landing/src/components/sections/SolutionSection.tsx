@@ -30,7 +30,7 @@ export default function SolutionSection() {
             viewport={{ once: true }}
             className="text-3xl md:text-4xl font-bold text-gray-900 mb-4"
           >
-            We fix this in just <span className="text-orange-500">5 days ⚡</span>
+            We fix this in just <span className="text-orange-500">5 - 10 days ⚡</span>
           </motion.h2>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}

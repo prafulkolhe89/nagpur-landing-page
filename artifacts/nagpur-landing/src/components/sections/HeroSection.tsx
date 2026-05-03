@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { WHATSAPP_URL } from "@/lib/constants";
-import { MessageCircle, Star, ShieldCheck, MapPin } from "lucide-react";
+import { MessageCircle, Star, ShieldCheck } from "lucide-react";
 
 export default function HeroSection() {
   return (
@@ -18,13 +18,8 @@ export default function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-orange-100 text-orange-800 text-sm font-semibold mb-6 border border-orange-200">
-                <MapPin className="w-4 h-4" />
-                <span>Exclusively for Nagpur Businesses</span>
-              </div>
-              
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight tracking-tight mb-6">
-                Get More Customers for Your Business in Nagpur <span className="inline-block">🚀</span>
+                Get More Customers for Your Business <span className="inline-block">🚀</span>
               </h1>
               
               <p className="text-lg sm:text-xl text-gray-700 mb-8 max-w-2xl mx-auto lg:mx-0">

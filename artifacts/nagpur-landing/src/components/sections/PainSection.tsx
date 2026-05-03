@@ -23,7 +23,7 @@ export default function PainSection() {
             </h2>
             
             <p className="text-lg text-gray-600 mb-10 leading-relaxed">
-              People search daily for: <strong className="text-gray-900 bg-orange-100 px-2 py-1 rounded">"Pandit in Nagpur"</strong>, <strong className="text-gray-900 bg-orange-100 px-2 py-1 rounded">"Tiffin service near me"</strong>, <strong className="text-gray-900 bg-orange-100 px-2 py-1 rounded">"Best local service near me"</strong>
+              People search daily for: <strong className="text-gray-900 bg-orange-100 px-2 py-1 rounded">"Pandit in Nagpur"</strong>, <strong className="text-gray-900 bg-orange-100 px-2 py-1 rounded">"best corrugated box manufacturers in nagpur"</strong>, <strong className="text-gray-900 bg-orange-100 px-2 py-1 rounded">"Best local service near me"</strong>
             </p>
           </motion.div>
           

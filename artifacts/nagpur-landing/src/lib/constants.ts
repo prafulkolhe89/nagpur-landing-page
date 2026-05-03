@@ -1,1 +1,1 @@
-export const WHATSAPP_URL = "https://wa.me/91YOURNUMBER?text=Hi%2C%20I%20want%20to%20grow%20my%20business%20online";
+export const WHATSAPP_URL = "https://wa.me/918657079725?text=Hi%2C%20I%20want%20to%20grow%20my%20business%20online";

@@ -7,7 +7,7 @@ export default function PricingSection() {
   const plans = [
     {
       name: "Basic",
-      price: "₹3,999",
+      price: "₹5,999",
       period: "/year",
       desc: "Perfect to get started",
       features: [
@@ -19,7 +19,7 @@ export default function PricingSection() {
     },
     {
       name: "Growth",
-      price: "₹9,999",
+      price: "₹11,999",
       period: "/year",
       desc: "Best for regular leads",
       features: [
